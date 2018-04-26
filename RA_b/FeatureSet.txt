@@ -5,4 +5,6 @@ add f2
 
 add f3
 append f3
+fix f3
+
 EOF
