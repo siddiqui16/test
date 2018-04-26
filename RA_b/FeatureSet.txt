@@ -3,4 +3,6 @@ append f1
 
 add f2
 
+add f3
+append f3
 EOF
