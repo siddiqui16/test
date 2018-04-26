@@ -1,2 +1,6 @@
 add f1
 append f1
+
+add f2
+
+EOF
